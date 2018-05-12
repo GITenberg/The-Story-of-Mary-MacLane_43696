@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42291
     wikipedia: http://en.wikipedia.org/wiki/Mary_MacLane#Books
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43696#The-Story-of-Mary-MacLane
 gutenberg_issued: '2013-09-11'
 gutenberg_type: Text
 identifiers:
